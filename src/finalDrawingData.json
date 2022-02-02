@@ -1,0 +1,28 @@
+{
+    "hiringManagerName":"Ranjan",
+    "jobTitle":"Senior Developer",
+    "teamBlurp":1,
+    "disipline": 2,
+    "levelSelected":2,
+    "desciplineAndLevelForm":{
+       "discipline" :1,
+       "level":2,
+       "data": [ 
+        {
+            "id":"id1",
+            "option":[1]
+        },
+        {
+            "id":"id2",
+            "option":[1,2]
+        }
+    ]
+    }
+    "noteToRecruiter":{
+        "option":[1,2],
+        "other":"text"
+    },
+    "closingLetter": "We are an equal opportunity employer and value diversity, inclusion and equity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability statusApplicants with disabilities may be entitled to reasonable accommodations under applicable federal, state and/or local laws. If you need reasonable accommodations in the application process, please reach out to us at hr@groundtruth.com.",
+    "websitelink":"www.groundtruth.com"
+
+}

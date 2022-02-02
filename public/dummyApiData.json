@@ -1,0 +1,2168 @@
+{
+  "companyInfo": "Ground Truth is the leading location-based marketing and advertising technology company. Sitting at the convergence of offline and online data, GroundTruth delivers a unique data set called “visitation data,” which allows brands, agencies, SMBs, and non-profits to drive high-performing business outcomes (ROI). GroundTruth activates this data through a suite of performance products and services via their self-serve advertising platform, through managed services, or tailored partnerships. GroundTruth has built proprietary filtering processes that combines our Blueprint contextual mapping technology, owned & operated properties, along with 3rd party mobile location data, together yielding over 30B visits annually. We believe that innovative technology starts with the best talent and were recently ranked of Ad Age’s 2021 Best Places to Work. Learn more about the perks of joining our team here.firm",
+  "teamBlurp": {
+    "question": "Select the info to use for your team.",
+    "required": "true",
+    "options": [
+      {
+        "key": 1,
+        "value": "[WB - Platform Engineering]: The team behind the scenes using the latest AWS technologies to build flexible, scalable, and efficient APIs and Data Processors for our consumer apps"
+      },
+      {
+        "key": 2,
+        "value": "[WB - Data Operations]: The team of skilled people that combines data flow processes, and data tools that enable consistent, automated business intelligence to the enterprise."
+      },
+      {
+        "key": 3,
+        "value": "[GT - SRE]: Responsible for best practices, infrastructure, cost management, and enabling developers throughout GTs AWS Services"
+      }
+    ]
+  },
+  "discipline": {
+    "question": "Select the discipline below:",
+    "required": "true",
+    "options": [
+      {
+        "key": 1,
+        "value": "Software Engineering"
+      },
+      {
+        "key": 2,
+        "value": "Data Science"
+      },
+      {
+        "key": 3,
+        "value": "Data Analysis"
+      },
+      {
+        "key": 4,
+        "value": "Site Reliability Engineering"
+      },
+      {
+        "key": 5,
+        "value": "Quality Assurance"
+      }
+    ]
+  },
+  "levels": {
+    "question": "Please indicate Level",
+    "required": "true",
+    "options": [
+      {
+        "key": 1,
+        "value": "1"
+      },
+      {
+        "key": 2,
+        "value": "2"
+      },
+      {
+        "key": 3,
+        "value": "3"
+      },
+      {
+        "key": 4,
+        "value": "4"
+      }
+    ]
+  },
+  "desciplineAndLevelForm": [
+    {
+      "discipline": 1,
+      "level": 1,
+      "data": [
+        {
+          "id": "id1",
+          "question": "Please select the below",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Level Description: Fully competent and productive professional contributor who applies acquired job skills, policies, and procedures to complete substantive assignments/projects/tasks of moderate scope and complexity. Works independently with general supervision; exercises judgment within defined guidelines and practices to determine appropriate action. May provide guidance and assistance to entry level professionals and/or support employees."
+            }
+          ]
+        },
+        {
+          "id": "id2",
+          "question": "[Please check off every box]  You will:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "1) Provision, operate, and monitor cloud infrastructure for multiple areas of the business."
+            },
+            {
+              "key": 2,
+              "value": "2) Assist with development and integration of monitoring dashboards and devops tools"
+            }
+          ]
+        },
+        {
+          "id": "id3",
+          "question": "[Please check off every box] You are:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "A team player who is organized, flexible and willing to adapt"
+            },
+            {
+              "key": 2,
+              "value": "Not afraid of new technologies and driven to learn"
+            }
+          ]
+        },
+        {
+          "id": "id4",
+          "question": "[Please check off every box] You have:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Education: 4 year degree in Computer Science or related field OR 6+ years of experience in software development"
+            },
+            {
+              "key": 2,
+              "value": "Professional Experience: 3+ years of experience in software engineering"
+            }
+          ]
+        },
+        {
+          "id": "id5",
+          "question": "[Please check off the MUST have skills/certifications necessary to the role] - You have the following skills and/or certifications: ",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Flask"
+            },
+            {
+              "key": 2,
+              "value": "Django"
+            },
+            {
+              "key": 3,
+              "value": "React Native"
+            }
+          ]
+        },
+        {
+          "id": "id6",
+          "question": "[Please check off up to 6 boxes - please indicate up to 6 'nice to haves'] You may the following skills and/or certifications:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Flask"
+            },
+            {
+              "key": 2,
+              "value": "Django"
+            },
+            {
+              "key": 3,
+              "value": "React Native"
+            },
+            {
+              "key": 4,
+              "value": "Weather"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "discipline": 1,
+      "level": 2,
+      "data": [
+        {
+          "id": "id1",
+          "question": "Please select the below",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Level Description: Fully competent and productive professional contributor who applies acquired job skills, policies, and procedures to complete substantive assignments/projects/tasks of moderate scope and complexity. Works independently with general supervision; exercises judgment within defined guidelines and practices to determine appropriate action. May provide guidance and assistance to entry level professionals and/or support employees."
+            }
+          ]
+        },
+        {
+          "id": "id2",
+          "question": "[Please check off every box]  You will:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "1) Provision, operate, and monitor cloud infrastructure for multiple areas of the business."
+            },
+            {
+              "key": 2,
+              "value": "2) Assist with development and integration of monitoring dashboards and devops tools"
+            }
+          ]
+        },
+        {
+          "id": "id3",
+          "question": "[Please check off every box] You are:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "A team player who is organized, flexible and willing to adapt"
+            },
+            {
+              "key": 2,
+              "value": "Not afraid of new technologies and driven to learn"
+            }
+          ]
+        },
+        {
+          "id": "id4",
+          "question": "[Please check off every box] You have:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Education: 4 year degree in Computer Science or related field OR 6+ years of experience in software development"
+            },
+            {
+              "key": 2,
+              "value": "Professional Experience: 3+ years of experience in software engineering"
+            }
+          ]
+        },
+        {
+          "id": "id5",
+          "question": "[Please check off the MUST have skills/certifications necessary to the role] - You have the following skills and/or certifications: ",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Flask"
+            },
+            {
+              "key": 2,
+              "value": "Django"
+            },
+            {
+              "key": 3,
+              "value": "React Native"
+            }
+          ]
+        },
+        {
+          "id": "id6",
+          "question": "[Please check off up to 6 boxes - please indicate up to 6 'nice to haves'] You may the following skills and/or certifications:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Flask"
+            },
+            {
+              "key": 2,
+              "value": "Django"
+            },
+            {
+              "key": 3,
+              "value": "React Native"
+            },
+            {
+              "key": 4,
+              "value": "Weather"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "discipline": 1,
+      "level": 3,
+      "data": [
+        {
+          "id": "id1",
+          "question": "Please select the below",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Level Description: Fully competent and productive professional contributor who applies acquired job skills, policies, and procedures to complete substantive assignments/projects/tasks of moderate scope and complexity. Works independently with general supervision; exercises judgment within defined guidelines and practices to determine appropriate action. May provide guidance and assistance to entry level professionals and/or support employees."
+            }
+          ]
+        },
+        {
+          "id": "id2",
+          "question": "[Please check off every box]  You will:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "1) Provision, operate, and monitor cloud infrastructure for multiple areas of the business."
+            },
+            {
+              "key": 2,
+              "value": "2) Assist with development and integration of monitoring dashboards and devops tools"
+            }
+          ]
+        },
+        {
+          "id": "id3",
+          "question": "[Please check off every box] You are:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "A team player who is organized, flexible and willing to adapt"
+            },
+            {
+              "key": 2,
+              "value": "Not afraid of new technologies and driven to learn"
+            }
+          ]
+        },
+        {
+          "id": "id4",
+          "question": "[Please check off every box] You have:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Education: 4 year degree in Computer Science or related field OR 6+ years of experience in software development"
+            },
+            {
+              "key": 2,
+              "value": "Professional Experience: 3+ years of experience in software engineering"
+            }
+          ]
+        },
+        {
+          "id": "id5",
+          "question": "[Please check off the MUST have skills/certifications necessary to the role] - You have the following skills and/or certifications: ",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Flask"
+            },
+            {
+              "key": 2,
+              "value": "Django"
+            },
+            {
+              "key": 3,
+              "value": "React Native"
+            }
+          ]
+        },
+        {
+          "id": "id6",
+          "question": "[Please check off up to 6 boxes - please indicate up to 6 'nice to haves'] You may the following skills and/or certifications:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Flask"
+            },
+            {
+              "key": 2,
+              "value": "Django"
+            },
+            {
+              "key": 3,
+              "value": "React Native"
+            },
+            {
+              "key": 4,
+              "value": "Weather"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "discipline": 1,
+      "level": 4,
+      "data": [
+        {
+          "id": "id1",
+          "question": "Please select the below",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Level Description: Fully competent and productive professional contributor who applies acquired job skills, policies, and procedures to complete substantive assignments/projects/tasks of moderate scope and complexity. Works independently with general supervision; exercises judgment within defined guidelines and practices to determine appropriate action. May provide guidance and assistance to entry level professionals and/or support employees."
+            }
+          ]
+        },
+        {
+          "id": "id2",
+          "question": "[Please check off every box]  You will:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "1) Provision, operate, and monitor cloud infrastructure for multiple areas of the business."
+            },
+            {
+              "key": 2,
+              "value": "2) Assist with development and integration of monitoring dashboards and devops tools"
+            }
+          ]
+        },
+        {
+          "id": "id3",
+          "question": "[Please check off every box] You are:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "A team player who is organized, flexible and willing to adapt"
+            },
+            {
+              "key": 2,
+              "value": "Not afraid of new technologies and driven to learn"
+            }
+          ]
+        },
+        {
+          "id": "id4",
+          "question": "[Please check off every box] You have:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Education: 4 year degree in Computer Science or related field OR 6+ years of experience in software development"
+            },
+            {
+              "key": 2,
+              "value": "Professional Experience: 3+ years of experience in software engineering"
+            }
+          ]
+        },
+        {
+          "id": "id5",
+          "question": "[Please check off the MUST have skills/certifications necessary to the role] - You have the following skills and/or certifications: ",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Flask"
+            },
+            {
+              "key": 2,
+              "value": "Django"
+            },
+            {
+              "key": 3,
+              "value": "React Native"
+            }
+          ]
+        },
+        {
+          "id": "id6",
+          "question": "[Please check off up to 6 boxes - please indicate up to 6 'nice to haves'] You may the following skills and/or certifications:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Flask"
+            },
+            {
+              "key": 2,
+              "value": "Django"
+            },
+            {
+              "key": 3,
+              "value": "React Native"
+            },
+            {
+              "key": 4,
+              "value": "Weather"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "discipline": 2,
+      "level": 1,
+      "data": [
+        {
+          "id": "id1",
+          "question": "Please select the below",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Level Description: Fully competent and productive professional contributor who applies acquired job skills, policies, and procedures to complete substantive assignments/projects/tasks of moderate scope and complexity. Works independently with general supervision; exercises judgment within defined guidelines and practices to determine appropriate action. May provide guidance and assistance to entry level professionals and/or support employees."
+            }
+          ]
+        },
+        {
+          "id": "id2",
+          "question": "[Please check off every box]  You will:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "1) Provision, operate, and monitor cloud infrastructure for multiple areas of the business."
+            },
+            {
+              "key": 2,
+              "value": "2) Assist with development and integration of monitoring dashboards and devops tools"
+            }
+          ]
+        },
+        {
+          "id": "id3",
+          "question": "[Please check off every box] You are:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "A team player who is organized, flexible and willing to adapt"
+            },
+            {
+              "key": 2,
+              "value": "Not afraid of new technologies and driven to learn"
+            }
+          ]
+        },
+        {
+          "id": "id4",
+          "question": "[Please check off every box] You have:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Education: 4 year degree in Computer Science or related field OR 6+ years of experience in software development"
+            },
+            {
+              "key": 2,
+              "value": "Professional Experience: 3+ years of experience in software engineering"
+            }
+          ]
+        },
+        {
+          "id": "id5",
+          "question": "[Please check off the MUST have skills/certifications necessary to the role] - You have the following skills and/or certifications: ",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Flask"
+            },
+            {
+              "key": 2,
+              "value": "Django"
+            },
+            {
+              "key": 3,
+              "value": "React Native"
+            }
+          ]
+        },
+        {
+          "id": "id6",
+          "question": "[Please check off up to 6 boxes - please indicate up to 6 'nice to haves'] You may the following skills and/or certifications:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Flask"
+            },
+            {
+              "key": 2,
+              "value": "Django"
+            },
+            {
+              "key": 3,
+              "value": "React Native"
+            },
+            {
+              "key": 4,
+              "value": "Weather"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "discipline": 2,
+      "level": 2,
+      "data": [
+        {
+          "id": "id1",
+          "question": "Please select the below",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Level Description: Fully competent and productive professional contributor who applies acquired job skills, policies, and procedures to complete substantive assignments/projects/tasks of moderate scope and complexity. Works independently with general supervision; exercises judgment within defined guidelines and practices to determine appropriate action. May provide guidance and assistance to entry level professionals and/or support employees."
+            }
+          ]
+        },
+        {
+          "id": "id2",
+          "question": "[Please check off every box]  You will:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "1) Provision, operate, and monitor cloud infrastructure for multiple areas of the business."
+            },
+            {
+              "key": 2,
+              "value": "2) Assist with development and integration of monitoring dashboards and devops tools"
+            }
+          ]
+        },
+        {
+          "id": "id3",
+          "question": "[Please check off every box] You are:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "A team player who is organized, flexible and willing to adapt"
+            },
+            {
+              "key": 2,
+              "value": "Not afraid of new technologies and driven to learn"
+            }
+          ]
+        },
+        {
+          "id": "id4",
+          "question": "[Please check off every box] You have:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Education: 4 year degree in Computer Science or related field OR 6+ years of experience in software development"
+            },
+            {
+              "key": 2,
+              "value": "Professional Experience: 3+ years of experience in software engineering"
+            }
+          ]
+        },
+        {
+          "id": "id5",
+          "question": "[Please check off the MUST have skills/certifications necessary to the role] - You have the following skills and/or certifications: ",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Flask"
+            },
+            {
+              "key": 2,
+              "value": "Django"
+            },
+            {
+              "key": 3,
+              "value": "React Native"
+            }
+          ]
+        },
+        {
+          "id": "id6",
+          "question": "[Please check off up to 6 boxes - please indicate up to 6 'nice to haves'] You may the following skills and/or certifications:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Flask"
+            },
+            {
+              "key": 2,
+              "value": "Django"
+            },
+            {
+              "key": 3,
+              "value": "React Native"
+            },
+            {
+              "key": 4,
+              "value": "Weather"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "discipline": 2,
+      "level": 3,
+      "data": [
+        {
+          "id": "id1",
+          "question": "Please select the below",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Level Description: Fully competent and productive professional contributor who applies acquired job skills, policies, and procedures to complete substantive assignments/projects/tasks of moderate scope and complexity. Works independently with general supervision; exercises judgment within defined guidelines and practices to determine appropriate action. May provide guidance and assistance to entry level professionals and/or support employees."
+            }
+          ]
+        },
+        {
+          "id": "id2",
+          "question": "[Please check off every box]  You will:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "1) Provision, operate, and monitor cloud infrastructure for multiple areas of the business."
+            },
+            {
+              "key": 2,
+              "value": "2) Assist with development and integration of monitoring dashboards and devops tools"
+            }
+          ]
+        },
+        {
+          "id": "id3",
+          "question": "[Please check off every box] You are:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "A team player who is organized, flexible and willing to adapt"
+            },
+            {
+              "key": 2,
+              "value": "Not afraid of new technologies and driven to learn"
+            }
+          ]
+        },
+        {
+          "id": "id4",
+          "question": "[Please check off every box] You have:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Education: 4 year degree in Computer Science or related field OR 6+ years of experience in software development"
+            },
+            {
+              "key": 2,
+              "value": "Professional Experience: 3+ years of experience in software engineering"
+            }
+          ]
+        },
+        {
+          "id": "id5",
+          "question": "[Please check off the MUST have skills/certifications necessary to the role] - You have the following skills and/or certifications: ",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Flask"
+            },
+            {
+              "key": 2,
+              "value": "Django"
+            },
+            {
+              "key": 3,
+              "value": "React Native"
+            }
+          ]
+        },
+        {
+          "id": "id6",
+          "question": "[Please check off up to 6 boxes - please indicate up to 6 'nice to haves'] You may the following skills and/or certifications:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Flask"
+            },
+            {
+              "key": 2,
+              "value": "Django"
+            },
+            {
+              "key": 3,
+              "value": "React Native"
+            },
+            {
+              "key": 4,
+              "value": "Weather"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "discipline": 2,
+      "level": 4,
+      "data": [
+        {
+          "id": "id1",
+          "question": "Please select the below",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Level Description: Fully competent and productive professional contributor who applies acquired job skills, policies, and procedures to complete substantive assignments/projects/tasks of moderate scope and complexity. Works independently with general supervision; exercises judgment within defined guidelines and practices to determine appropriate action. May provide guidance and assistance to entry level professionals and/or support employees."
+            }
+          ]
+        },
+        {
+          "id": "id2",
+          "question": "[Please check off every box]  You will:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "1) Provision, operate, and monitor cloud infrastructure for multiple areas of the business."
+            },
+            {
+              "key": 2,
+              "value": "2) Assist with development and integration of monitoring dashboards and devops tools"
+            }
+          ]
+        },
+        {
+          "id": "id3",
+          "question": "[Please check off every box] You are:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "A team player who is organized, flexible and willing to adapt"
+            },
+            {
+              "key": 2,
+              "value": "Not afraid of new technologies and driven to learn"
+            }
+          ]
+        },
+        {
+          "id": "id4",
+          "question": "[Please check off every box] You have:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Education: 4 year degree in Computer Science or related field OR 6+ years of experience in software development"
+            },
+            {
+              "key": 2,
+              "value": "Professional Experience: 3+ years of experience in software engineering"
+            }
+          ]
+        },
+        {
+          "id": "id5",
+          "question": "[Please check off the MUST have skills/certifications necessary to the role] - You have the following skills and/or certifications: ",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Flask"
+            },
+            {
+              "key": 2,
+              "value": "Django"
+            },
+            {
+              "key": 3,
+              "value": "React Native"
+            }
+          ]
+        },
+        {
+          "id": "id6",
+          "question": "[Please check off up to 6 boxes - please indicate up to 6 'nice to haves'] You may the following skills and/or certifications:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Flask"
+            },
+            {
+              "key": 2,
+              "value": "Django"
+            },
+            {
+              "key": 3,
+              "value": "React Native"
+            },
+            {
+              "key": 4,
+              "value": "Weather"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "discipline": 3,
+      "level": 1,
+      "data": [
+        {
+          "id": "id1",
+          "question": "Please select the below",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Level Description: Fully competent and productive professional contributor who applies acquired job skills, policies, and procedures to complete substantive assignments/projects/tasks of moderate scope and complexity. Works independently with general supervision; exercises judgment within defined guidelines and practices to determine appropriate action. May provide guidance and assistance to entry level professionals and/or support employees."
+            }
+          ]
+        },
+        {
+          "id": "id2",
+          "question": "[Please check off every box]  You will:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "1) Provision, operate, and monitor cloud infrastructure for multiple areas of the business."
+            },
+            {
+              "key": 2,
+              "value": "2) Assist with development and integration of monitoring dashboards and devops tools"
+            }
+          ]
+        },
+        {
+          "id": "id3",
+          "question": "[Please check off every box] You are:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "A team player who is organized, flexible and willing to adapt"
+            },
+            {
+              "key": 2,
+              "value": "Not afraid of new technologies and driven to learn"
+            }
+          ]
+        },
+        {
+          "id": "id4",
+          "question": "[Please check off every box] You have:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Education: 4 year degree in Computer Science or related field OR 6+ years of experience in software development"
+            },
+            {
+              "key": 2,
+              "value": "Professional Experience: 3+ years of experience in software engineering"
+            }
+          ]
+        },
+        {
+          "id": "id5",
+          "question": "[Please check off the MUST have skills/certifications necessary to the role] - You have the following skills and/or certifications: ",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Flask"
+            },
+            {
+              "key": 2,
+              "value": "Django"
+            },
+            {
+              "key": 3,
+              "value": "React Native"
+            }
+          ]
+        },
+        {
+          "id": "id6",
+          "question": "[Please check off up to 6 boxes - please indicate up to 6 'nice to haves'] You may the following skills and/or certifications:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Flask"
+            },
+            {
+              "key": 2,
+              "value": "Django"
+            },
+            {
+              "key": 3,
+              "value": "React Native"
+            },
+            {
+              "key": 4,
+              "value": "Weather"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "discipline": 3,
+      "level": 2,
+      "data": [
+        {
+          "id": "id1",
+          "question": "Please select the below",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Level Description: Fully competent and productive professional contributor who applies acquired job skills, policies, and procedures to complete substantive assignments/projects/tasks of moderate scope and complexity. Works independently with general supervision; exercises judgment within defined guidelines and practices to determine appropriate action. May provide guidance and assistance to entry level professionals and/or support employees."
+            }
+          ]
+        },
+        {
+          "id": "id2",
+          "question": "[Please check off every box]  You will:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "1) Provision, operate, and monitor cloud infrastructure for multiple areas of the business."
+            },
+            {
+              "key": 2,
+              "value": "2) Assist with development and integration of monitoring dashboards and devops tools"
+            }
+          ]
+        },
+        {
+          "id": "id3",
+          "question": "[Please check off every box] You are:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "A team player who is organized, flexible and willing to adapt"
+            },
+            {
+              "key": 2,
+              "value": "Not afraid of new technologies and driven to learn"
+            }
+          ]
+        },
+        {
+          "id": "id4",
+          "question": "[Please check off every box] You have:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Education: 4 year degree in Computer Science or related field OR 6+ years of experience in software development"
+            },
+            {
+              "key": 2,
+              "value": "Professional Experience: 3+ years of experience in software engineering"
+            }
+          ]
+        },
+        {
+          "id": "id5",
+          "question": "[Please check off the MUST have skills/certifications necessary to the role] - You have the following skills and/or certifications: ",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Flask"
+            },
+            {
+              "key": 2,
+              "value": "Django"
+            },
+            {
+              "key": 3,
+              "value": "React Native"
+            }
+          ]
+        },
+        {
+          "id": "id6",
+          "question": "[Please check off up to 6 boxes - please indicate up to 6 'nice to haves'] You may the following skills and/or certifications:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Flask"
+            },
+            {
+              "key": 2,
+              "value": "Django"
+            },
+            {
+              "key": 3,
+              "value": "React Native"
+            },
+            {
+              "key": 4,
+              "value": "Weather"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "discipline": 3,
+      "level": 3,
+      "data": [
+        {
+          "id": "id1",
+          "question": "Please select the below",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Level Description: Fully competent and productive professional contributor who applies acquired job skills, policies, and procedures to complete substantive assignments/projects/tasks of moderate scope and complexity. Works independently with general supervision; exercises judgment within defined guidelines and practices to determine appropriate action. May provide guidance and assistance to entry level professionals and/or support employees."
+            }
+          ]
+        },
+        {
+          "id": "id2",
+          "question": "[Please check off every box]  You will:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "1) Provision, operate, and monitor cloud infrastructure for multiple areas of the business."
+            },
+            {
+              "key": 2,
+              "value": "2) Assist with development and integration of monitoring dashboards and devops tools"
+            }
+          ]
+        },
+        {
+          "id": "id3",
+          "question": "[Please check off every box] You are:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "A team player who is organized, flexible and willing to adapt"
+            },
+            {
+              "key": 2,
+              "value": "Not afraid of new technologies and driven to learn"
+            }
+          ]
+        },
+        {
+          "id": "id4",
+          "question": "[Please check off every box] You have:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Education: 4 year degree in Computer Science or related field OR 6+ years of experience in software development"
+            },
+            {
+              "key": 2,
+              "value": "Professional Experience: 3+ years of experience in software engineering"
+            }
+          ]
+        },
+        {
+          "id": "id5",
+          "question": "[Please check off the MUST have skills/certifications necessary to the role] - You have the following skills and/or certifications: ",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Flask"
+            },
+            {
+              "key": 2,
+              "value": "Django"
+            },
+            {
+              "key": 3,
+              "value": "React Native"
+            }
+          ]
+        },
+        {
+          "id": "id6",
+          "question": "[Please check off up to 6 boxes - please indicate up to 6 'nice to haves'] You may the following skills and/or certifications:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Flask"
+            },
+            {
+              "key": 2,
+              "value": "Django"
+            },
+            {
+              "key": 3,
+              "value": "React Native"
+            },
+            {
+              "key": 4,
+              "value": "Weather"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "discipline": 3,
+      "level": 4,
+      "data": [
+        {
+          "id": "id1",
+          "question": "Please select the below",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Level Description: Fully competent and productive professional contributor who applies acquired job skills, policies, and procedures to complete substantive assignments/projects/tasks of moderate scope and complexity. Works independently with general supervision; exercises judgment within defined guidelines and practices to determine appropriate action. May provide guidance and assistance to entry level professionals and/or support employees."
+            }
+          ]
+        },
+        {
+          "id": "id2",
+          "question": "[Please check off every box]  You will:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "1) Provision, operate, and monitor cloud infrastructure for multiple areas of the business."
+            },
+            {
+              "key": 2,
+              "value": "2) Assist with development and integration of monitoring dashboards and devops tools"
+            }
+          ]
+        },
+        {
+          "id": "id3",
+          "question": "[Please check off every box] You are:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "A team player who is organized, flexible and willing to adapt"
+            },
+            {
+              "key": 2,
+              "value": "Not afraid of new technologies and driven to learn"
+            }
+          ]
+        },
+        {
+          "id": "id4",
+          "question": "[Please check off every box] You have:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Education: 4 year degree in Computer Science or related field OR 6+ years of experience in software development"
+            },
+            {
+              "key": 2,
+              "value": "Professional Experience: 3+ years of experience in software engineering"
+            }
+          ]
+        },
+        {
+          "id": "id5",
+          "question": "[Please check off the MUST have skills/certifications necessary to the role] - You have the following skills and/or certifications: ",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Flask"
+            },
+            {
+              "key": 2,
+              "value": "Django"
+            },
+            {
+              "key": 3,
+              "value": "React Native"
+            }
+          ]
+        },
+        {
+          "id": "id6",
+          "question": "[Please check off up to 6 boxes - please indicate up to 6 'nice to haves'] You may the following skills and/or certifications:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Flask"
+            },
+            {
+              "key": 2,
+              "value": "Django"
+            },
+            {
+              "key": 3,
+              "value": "React Native"
+            },
+            {
+              "key": 4,
+              "value": "Weather"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "discipline": 4,
+      "level": 1,
+      "data": [
+        {
+          "id": "id1",
+          "question": "Please select the below",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Level Description: Fully competent and productive professional contributor who applies acquired job skills, policies, and procedures to complete substantive assignments/projects/tasks of moderate scope and complexity. Works independently with general supervision; exercises judgment within defined guidelines and practices to determine appropriate action. May provide guidance and assistance to entry level professionals and/or support employees."
+            }
+          ]
+        },
+        {
+          "id": "id2",
+          "question": "[Please check off every box]  You will:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "1) Provision, operate, and monitor cloud infrastructure for multiple areas of the business."
+            },
+            {
+              "key": 2,
+              "value": "2) Assist with development and integration of monitoring dashboards and devops tools"
+            }
+          ]
+        },
+        {
+          "id": "id3",
+          "question": "[Please check off every box] You are:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "A team player who is organized, flexible and willing to adapt"
+            },
+            {
+              "key": 2,
+              "value": "Not afraid of new technologies and driven to learn"
+            }
+          ]
+        },
+        {
+          "id": "id4",
+          "question": "[Please check off every box] You have:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Education: 4 year degree in Computer Science or related field OR 6+ years of experience in software development"
+            },
+            {
+              "key": 2,
+              "value": "Professional Experience: 3+ years of experience in software engineering"
+            }
+          ]
+        },
+        {
+          "id": "id5",
+          "question": "[Please check off the MUST have skills/certifications necessary to the role] - You have the following skills and/or certifications: ",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Flask"
+            },
+            {
+              "key": 2,
+              "value": "Django"
+            },
+            {
+              "key": 3,
+              "value": "React Native"
+            }
+          ]
+        },
+        {
+          "id": "id6",
+          "question": "[Please check off up to 6 boxes - please indicate up to 6 'nice to haves'] You may the following skills and/or certifications:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Flask"
+            },
+            {
+              "key": 2,
+              "value": "Django"
+            },
+            {
+              "key": 3,
+              "value": "React Native"
+            },
+            {
+              "key": 4,
+              "value": "Weather"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "discipline": 4,
+      "level": 2,
+      "data": [
+        {
+          "id": "id1",
+          "question": "Please select the below",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Level Description: Fully competent and productive professional contributor who applies acquired job skills, policies, and procedures to complete substantive assignments/projects/tasks of moderate scope and complexity. Works independently with general supervision; exercises judgment within defined guidelines and practices to determine appropriate action. May provide guidance and assistance to entry level professionals and/or support employees."
+            }
+          ]
+        },
+        {
+          "id": "id2",
+          "question": "[Please check off every box]  You will:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "1) Provision, operate, and monitor cloud infrastructure for multiple areas of the business."
+            },
+            {
+              "key": 2,
+              "value": "2) Assist with development and integration of monitoring dashboards and devops tools"
+            }
+          ]
+        },
+        {
+          "id": "id3",
+          "question": "[Please check off every box] You are:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "A team player who is organized, flexible and willing to adapt"
+            },
+            {
+              "key": 2,
+              "value": "Not afraid of new technologies and driven to learn"
+            }
+          ]
+        },
+        {
+          "id": "id4",
+          "question": "[Please check off every box] You have:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Education: 4 year degree in Computer Science or related field OR 6+ years of experience in software development"
+            },
+            {
+              "key": 2,
+              "value": "Professional Experience: 3+ years of experience in software engineering"
+            }
+          ]
+        },
+        {
+          "id": "id5",
+          "question": "[Please check off the MUST have skills/certifications necessary to the role] - You have the following skills and/or certifications: ",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Flask"
+            },
+            {
+              "key": 2,
+              "value": "Django"
+            },
+            {
+              "key": 3,
+              "value": "React Native"
+            }
+          ]
+        },
+        {
+          "id": "id6",
+          "question": "[Please check off up to 6 boxes - please indicate up to 6 'nice to haves'] You may the following skills and/or certifications:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Flask"
+            },
+            {
+              "key": 2,
+              "value": "Django"
+            },
+            {
+              "key": 3,
+              "value": "React Native"
+            },
+            {
+              "key": 4,
+              "value": "Weather"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "discipline": 4,
+      "level": 3,
+      "data": [
+        {
+          "id": "id1",
+          "question": "Please select the below",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Level Description: Fully competent and productive professional contributor who applies acquired job skills, policies, and procedures to complete substantive assignments/projects/tasks of moderate scope and complexity. Works independently with general supervision; exercises judgment within defined guidelines and practices to determine appropriate action. May provide guidance and assistance to entry level professionals and/or support employees."
+            }
+          ]
+        },
+        {
+          "id": "id2",
+          "question": "[Please check off every box]  You will:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "1) Provision, operate, and monitor cloud infrastructure for multiple areas of the business."
+            },
+            {
+              "key": 2,
+              "value": "2) Assist with development and integration of monitoring dashboards and devops tools"
+            }
+          ]
+        },
+        {
+          "id": "id3",
+          "question": "[Please check off every box] You are:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "A team player who is organized, flexible and willing to adapt"
+            },
+            {
+              "key": 2,
+              "value": "Not afraid of new technologies and driven to learn"
+            }
+          ]
+        },
+        {
+          "id": "id4",
+          "question": "[Please check off every box] You have:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Education: 4 year degree in Computer Science or related field OR 6+ years of experience in software development"
+            },
+            {
+              "key": 2,
+              "value": "Professional Experience: 3+ years of experience in software engineering"
+            }
+          ]
+        },
+        {
+          "id": "id5",
+          "question": "[Please check off the MUST have skills/certifications necessary to the role] - You have the following skills and/or certifications: ",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Flask"
+            },
+            {
+              "key": 2,
+              "value": "Django"
+            },
+            {
+              "key": 3,
+              "value": "React Native"
+            }
+          ]
+        },
+        {
+          "id": "id6",
+          "question": "[Please check off up to 6 boxes - please indicate up to 6 'nice to haves'] You may the following skills and/or certifications:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Flask"
+            },
+            {
+              "key": 2,
+              "value": "Django"
+            },
+            {
+              "key": 3,
+              "value": "React Native"
+            },
+            {
+              "key": 4,
+              "value": "Weather"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "discipline": 4,
+      "level": 4,
+      "data": [
+        {
+          "id": "id1",
+          "question": "Please select the below",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Level Description: Fully competent and productive professional contributor who applies acquired job skills, policies, and procedures to complete substantive assignments/projects/tasks of moderate scope and complexity. Works independently with general supervision; exercises judgment within defined guidelines and practices to determine appropriate action. May provide guidance and assistance to entry level professionals and/or support employees."
+            }
+          ]
+        },
+        {
+          "id": "id2",
+          "question": "[Please check off every box]  You will:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "1) Provision, operate, and monitor cloud infrastructure for multiple areas of the business."
+            },
+            {
+              "key": 2,
+              "value": "2) Assist with development and integration of monitoring dashboards and devops tools"
+            }
+          ]
+        },
+        {
+          "id": "id3",
+          "question": "[Please check off every box] You are:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "A team player who is organized, flexible and willing to adapt"
+            },
+            {
+              "key": 2,
+              "value": "Not afraid of new technologies and driven to learn"
+            }
+          ]
+        },
+        {
+          "id": "id4",
+          "question": "[Please check off every box] You have:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Education: 4 year degree in Computer Science or related field OR 6+ years of experience in software development"
+            },
+            {
+              "key": 2,
+              "value": "Professional Experience: 3+ years of experience in software engineering"
+            }
+          ]
+        },
+        {
+          "id": "id5",
+          "question": "[Please check off the MUST have skills/certifications necessary to the role] - You have the following skills and/or certifications: ",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Flask"
+            },
+            {
+              "key": 2,
+              "value": "Django"
+            },
+            {
+              "key": 3,
+              "value": "React Native"
+            }
+          ]
+        },
+        {
+          "id": "id6",
+          "question": "[Please check off up to 6 boxes - please indicate up to 6 'nice to haves'] You may the following skills and/or certifications:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Flask"
+            },
+            {
+              "key": 2,
+              "value": "Django"
+            },
+            {
+              "key": 3,
+              "value": "React Native"
+            },
+            {
+              "key": 4,
+              "value": "Weather"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "discipline": 5,
+      "level": 1,
+      "data": [
+        {
+          "id": "id1",
+          "question": "Please select the below",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Level Description: Fully competent and productive professional contributor who applies acquired job skills, policies, and procedures to complete substantive assignments/projects/tasks of moderate scope and complexity. Works independently with general supervision; exercises judgment within defined guidelines and practices to determine appropriate action. May provide guidance and assistance to entry level professionals and/or support employees."
+            }
+          ]
+        },
+        {
+          "id": "id2",
+          "question": "[Please check off every box]  You will:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "1) Provision, operate, and monitor cloud infrastructure for multiple areas of the business."
+            },
+            {
+              "key": 2,
+              "value": "2) Assist with development and integration of monitoring dashboards and devops tools"
+            }
+          ]
+        },
+        {
+          "id": "id3",
+          "question": "[Please check off every box] You are:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "A team player who is organized, flexible and willing to adapt"
+            },
+            {
+              "key": 2,
+              "value": "Not afraid of new technologies and driven to learn"
+            }
+          ]
+        },
+        {
+          "id": "id4",
+          "question": "[Please check off every box] You have:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Education: 4 year degree in Computer Science or related field OR 6+ years of experience in software development"
+            },
+            {
+              "key": 2,
+              "value": "Professional Experience: 3+ years of experience in software engineering"
+            }
+          ]
+        },
+        {
+          "id": "id5",
+          "question": "[Please check off the MUST have skills/certifications necessary to the role] - You have the following skills and/or certifications: ",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Flask"
+            },
+            {
+              "key": 2,
+              "value": "Django"
+            },
+            {
+              "key": 3,
+              "value": "React Native"
+            }
+          ]
+        },
+        {
+          "id": "id6",
+          "question": "[Please check off up to 6 boxes - please indicate up to 6 'nice to haves'] You may the following skills and/or certifications:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Flask"
+            },
+            {
+              "key": 2,
+              "value": "Django"
+            },
+            {
+              "key": 3,
+              "value": "React Native"
+            },
+            {
+              "key": 4,
+              "value": "Weather"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "discipline": 5,
+      "level": 2,
+      "data": [
+        {
+          "id": "id1",
+          "question": "Please select the below",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Level Description: Fully competent and productive professional contributor who applies acquired job skills, policies, and procedures to complete substantive assignments/projects/tasks of moderate scope and complexity. Works independently with general supervision; exercises judgment within defined guidelines and practices to determine appropriate action. May provide guidance and assistance to entry level professionals and/or support employees."
+            }
+          ]
+        },
+        {
+          "id": "id2",
+          "question": "[Please check off every box]  You will:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "1) Provision, operate, and monitor cloud infrastructure for multiple areas of the business."
+            },
+            {
+              "key": 2,
+              "value": "2) Assist with development and integration of monitoring dashboards and devops tools"
+            }
+          ]
+        },
+        {
+          "id": "id3",
+          "question": "[Please check off every box] You are:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "A team player who is organized, flexible and willing to adapt"
+            },
+            {
+              "key": 2,
+              "value": "Not afraid of new technologies and driven to learn"
+            }
+          ]
+        },
+        {
+          "id": "id4",
+          "question": "[Please check off every box] You have:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Education: 4 year degree in Computer Science or related field OR 6+ years of experience in software development"
+            },
+            {
+              "key": 2,
+              "value": "Professional Experience: 3+ years of experience in software engineering"
+            }
+          ]
+        },
+        {
+          "id": "id5",
+          "question": "[Please check off the MUST have skills/certifications necessary to the role] - You have the following skills and/or certifications: ",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Flask"
+            },
+            {
+              "key": 2,
+              "value": "Django"
+            },
+            {
+              "key": 3,
+              "value": "React Native"
+            }
+          ]
+        },
+        {
+          "id": "id6",
+          "question": "[Please check off up to 6 boxes - please indicate up to 6 'nice to haves'] You may the following skills and/or certifications:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Flask"
+            },
+            {
+              "key": 2,
+              "value": "Django"
+            },
+            {
+              "key": 3,
+              "value": "React Native"
+            },
+            {
+              "key": 4,
+              "value": "Weather"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "discipline": 5,
+      "level": 3,
+      "data": [
+        {
+          "id": "id1",
+          "question": "Please select the below",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Level Description: Fully competent and productive professional contributor who applies acquired job skills, policies, and procedures to complete substantive assignments/projects/tasks of moderate scope and complexity. Works independently with general supervision; exercises judgment within defined guidelines and practices to determine appropriate action. May provide guidance and assistance to entry level professionals and/or support employees."
+            }
+          ]
+        },
+        {
+          "id": "id2",
+          "question": "[Please check off every box]  You will:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "1) Provision, operate, and monitor cloud infrastructure for multiple areas of the business."
+            },
+            {
+              "key": 2,
+              "value": "2) Assist with development and integration of monitoring dashboards and devops tools"
+            }
+          ]
+        },
+        {
+          "id": "id3",
+          "question": "[Please check off every box] You are:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "A team player who is organized, flexible and willing to adapt"
+            },
+            {
+              "key": 2,
+              "value": "Not afraid of new technologies and driven to learn"
+            }
+          ]
+        },
+        {
+          "id": "id4",
+          "question": "[Please check off every box] You have:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Education: 4 year degree in Computer Science or related field OR 6+ years of experience in software development"
+            },
+            {
+              "key": 2,
+              "value": "Professional Experience: 3+ years of experience in software engineering"
+            }
+          ]
+        },
+        {
+          "id": "id5",
+          "question": "[Please check off the MUST have skills/certifications necessary to the role] - You have the following skills and/or certifications: ",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Flask"
+            },
+            {
+              "key": 2,
+              "value": "Django"
+            },
+            {
+              "key": 3,
+              "value": "React Native"
+            }
+          ]
+        },
+        {
+          "id": "id6",
+          "question": "[Please check off up to 6 boxes - please indicate up to 6 'nice to haves'] You may the following skills and/or certifications:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Flask"
+            },
+            {
+              "key": 2,
+              "value": "Django"
+            },
+            {
+              "key": 3,
+              "value": "React Native"
+            },
+            {
+              "key": 4,
+              "value": "Weather"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "discipline": 5,
+      "level": 4,
+      "data": [
+        {
+          "id": "id1",
+          "question": "Please select the below",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Level Description: Fully competent and productive professional contributor who applies acquired job skills, policies, and procedures to complete substantive assignments/projects/tasks of moderate scope and complexity. Works independently with general supervision; exercises judgment within defined guidelines and practices to determine appropriate action. May provide guidance and assistance to entry level professionals and/or support employees."
+            }
+          ]
+        },
+        {
+          "id": "id2",
+          "question": "[Please check off every box]  You will:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "1) Provision, operate, and monitor cloud infrastructure for multiple areas of the business."
+            },
+            {
+              "key": 2,
+              "value": "2) Assist with development and integration of monitoring dashboards and devops tools"
+            }
+          ]
+        },
+        {
+          "id": "id3",
+          "question": "[Please check off every box] You are:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "A team player who is organized, flexible and willing to adapt"
+            },
+            {
+              "key": 2,
+              "value": "Not afraid of new technologies and driven to learn"
+            }
+          ]
+        },
+        {
+          "id": "id4",
+          "question": "[Please check off every box] You have:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Education: 4 year degree in Computer Science or related field OR 6+ years of experience in software development"
+            },
+            {
+              "key": 2,
+              "value": "Professional Experience: 3+ years of experience in software engineering"
+            }
+          ]
+        },
+        {
+          "id": "id5",
+          "question": "[Please check off the MUST have skills/certifications necessary to the role] - You have the following skills and/or certifications: ",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Flask"
+            },
+            {
+              "key": 2,
+              "value": "Django"
+            },
+            {
+              "key": 3,
+              "value": "React Native"
+            }
+          ]
+        },
+        {
+          "id": "id6",
+          "question": "[Please check off up to 6 boxes - please indicate up to 6 'nice to haves'] You may the following skills and/or certifications:",
+          "required": "true",
+          "options": [
+            {
+              "key": 1,
+              "value": "Flask"
+            },
+            {
+              "key": 2,
+              "value": "Django"
+            },
+            {
+              "key": 3,
+              "value": "React Native"
+            },
+            {
+              "key": 4,
+              "value": "Weather"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "noteToRecruiter": {
+    "question": "Notes for recruiter [Internal]",
+    "required": "false",
+    "options": [
+      {
+        "key": 1,
+        "value": "Option1"
+      },
+      {
+        "key": 2,
+        "value": "Other"
+      }
+    ]
+  },
+  "closingLetter": "We are an equal opportunity employer and value diversity, inclusion and equity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability statusApplicants with disabilities may be entitled to reasonable accommodations under applicable federal, state and/or local laws. If you need reasonable accommodations in the application process, please reach out to us at hr@groundtruth.com.",
+  "websitelink": "www.groundtruth.com"
+}
